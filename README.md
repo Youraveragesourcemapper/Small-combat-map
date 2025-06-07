@@ -1,2 +1,2 @@
 # Small-combat-map
-Feel free to sue it for your own Projects
+Feel free to use it for your own Projects
